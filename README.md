@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fatin2271.green@gmail.com**
 
-- 👨‍💻 All of my projects are available at **https://fatinehsan.blogspot.com**
+- 👨‍💻 All of my projects are available at **https://fatinehsan.vercel.app**
 
 - ⚡ Fun fact **I think I am a noob! :3**
 
