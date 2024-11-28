@@ -1,25 +1,25 @@
 ![logo](https://github.com/Fatin296/Fatin296/blob/main/github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Fatin Ehsan</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate SEO Specialist from Bangladesh</h3>
 <img align="right" alt=Coding" width="400" src="https://github.com/Fatin296/Fatin296/blob/main/githubimage.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatin296&label=Profile%20views&color=0e75b6&style=flat" alt="fatin296" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tinshin97" target="blank"><img src="https://img.shields.io/twitter/follow/tinshin97?logo=twitter&style=for-the-badge" alt="tinshin97" /></a> </p>
 
-- 🔭 I’m currently working on **data analyzation techniques**
+- 🔭 I’m currently working on **meta pixel techniques**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Google Analytics**
 
-- 📫 How to reach me **fatin2271.green@gmail.com**
+- 📫 How to reach me **fatinehsansafi@gmail.com**
 
-- 👨‍💻 All of my projects are available at **https://fatinehsan.vercel.app**
+- 👨‍💻 Check out my portfolio website at **https://fatinehsan.vercel.app**
 
 - ⚡ Fun fact **I think I am a noob! :3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tinshin97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tinshin97" height="30" width="40" /></a>
+<a href="https://twitter.com/fatin_ehsan_71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tinshin97" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fatinehsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatinehsan/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21874035/fatin-ehsan?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21874035/fatin-ehsan?tab=profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/fatin.ehsan.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fatin.ehsan.3/" height="30" width="40" /></a>
