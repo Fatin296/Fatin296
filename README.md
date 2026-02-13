@@ -1,6 +1,6 @@
 ![logo](https://github.com/Fatin296/Fatin296/blob/main/github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Fatin Ehsan</h1>
-<h3 align="center">A passionate SEO Specialist from Bangladesh</h3>
+<h3 align="center">A passionate SEO enthusiast from Bangladesh</h3>
 <img align="right" alt=Coding" width="400" src="https://github.com/Fatin296/Fatin296/blob/main/githubimage.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatin296&label=Profile%20views&color=0e75b6&style=flat" alt="fatin296" /> </p>
