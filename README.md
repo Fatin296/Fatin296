@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatin296&label=Profile%20views&color=0e75b6&style=flat" alt="fatin296" /> </p>
 
-<p align="left"> <a href="https://x.com/fatin_ehsan_71" target="blank"><img src="https://img.shields.io/twitter/follow/fatin_ehsan_71?logo=twitter&style=for-the-badge" alt="fatin_ehsan" /></a> </p>
+<p align="left"> <a href="https://x.com/fatinehsansafi" target="blank"><img src="https://img.shields.io/twitter/follow/fatin_ehsan_71?logo=twitter&style=for-the-badge" alt="fatin_ehsan" /></a> </p>
 
 - 🔭 I’m currently working on **meta pixel techniques**
 
